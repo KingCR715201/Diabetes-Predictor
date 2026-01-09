@@ -1,4 +1,4 @@
-# Diabetes Prediction Using Machine Learning (Random Forest)
+# Diabetes Prediction Using Machine Learning
 
 ## Project Title
 Diabetes Prediction Using Machine Learning
